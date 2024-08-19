@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\bin\Debug\net8.0\20_so_nguyen_to_dau_tien.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\bin\Debug\net8.0\20_so_nguyen_to_dau_tien.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\bin\Debug\net8.0\20_so_nguyen_to_dau_tien.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\bin\Debug\net8.0\20_so_nguyen_to_dau_tien.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\bin\Debug\net8.0\20_so_nguyen_to_dau_tien.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\refint\20_so_nguyen_to_dau_tien.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\20_so_nguyen_to_dau_tien.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\20_so_nguyen_to_dau_tien\obj\Debug\net8.0\ref\20_so_nguyen_to_dau_tien.dll
